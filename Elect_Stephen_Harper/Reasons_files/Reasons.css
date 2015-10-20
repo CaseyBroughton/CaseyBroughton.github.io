@@ -45,73 +45,11 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_2 {
-    color: rgb(0, 0, 0);
-    font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 15px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 19px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_1 {
-    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
-    font-size: 15px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 19px;
-}
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
 }
-.style_External_630_50 {
-    position: relative;
-}
-.style_External_630_91 {
-    position: relative;
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.paragraph_style_3 {
-    color: rgb(0, 0, 0);
-    font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 15px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 19px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_4 {
+.paragraph_style_2 {
     color: rgb(4, 46, 238);
     font-family: 'Helvetica', 'Arial', sans-serif;
     font-size: 15px;
@@ -133,11 +71,21 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_2 {
+.style_External_630_50 {
+    position: relative;
+}
+.style_1 {
     line-height: 22px;
     text-decoration: none;
 }
-.paragraph_style_5 {
+.style_External_630_91 {
+    position: relative;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.paragraph_style_3 {
     color: rgb(0, 0, 0);
     font-family: 'Helvetica', 'Arial', sans-serif;
     font-size: 15px;
@@ -159,7 +107,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_3 {
+.style_2 {
     line-height: 22px;
 }
 .Free_Form {
@@ -222,7 +170,7 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_616_1803 {
+.graphic_textbox_layout_style_default_External_616_1169 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_622_994 {
